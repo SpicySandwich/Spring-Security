@@ -1,0 +1,5 @@
+Tutorial
+https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=1
+
+Spring Security without the WebSecurityConfigurerAdapter
+https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
